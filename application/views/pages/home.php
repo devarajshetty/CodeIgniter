@@ -9,5 +9,7 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <h1> <?php echo $title; ?>
+    <h1>hi this is home page</h1>
+    </body>
+    </html>
     
