@@ -33,4 +33,5 @@ class News extends CI_Controller {
         $this->load->view('news/view', $data);
         $this->load->view('templates/footer');
         }
+	zz
 }
